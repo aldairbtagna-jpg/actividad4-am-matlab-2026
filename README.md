@@ -2,12 +2,20 @@
 
 ## Evidencias de MATLAB
 
-Esta carpeta contiene capturas de pantalla de los resultados obtenidos durante la simulación:
+### 1. Atenuación y distorsión
+![Atenuación y distorsión](01_comparacion_atenuacion_distorsion.png)
 
-1. Comparación de la señal AM original, con atenuación del 50 % y con distorsión.
-2. Segunda captura de la comparación de atenuación y distorsión.
-3. Comparación de la señal AM original y la señal AM con ruido.
-4. Espectro de frecuencias de la señal AM (FFT), donde se observan la portadora y las bandas laterales.
-5. Señal de información, señal portadora y señal modulada en amplitud.
+### 2. Comparación de atenuación y distorsión
+![Comparación](02_comparacion_atenuacion_distorsion_detalle.png)
 
-Las imágenes son capturas del entorno MATLAB compartidas para documentar los resultados de la actividad.
+### 3. Señal AM con ruido
+![Señal AM con ruido](03_senal_AM_con_ruido.png)
+
+### 4. Espectro de frecuencias FFT
+![Espectro FFT](04_espectro_de_frecuencias_FFT.png)
+
+### 5. Señal de información, portadora y AM
+![Señales AM](05_senal_informacion_portadora_y_AM.png)
+
+## Código fuente
+El archivo `Actividad4_Modulacion_AM.m` contiene el programa desarrollado en MATLAB.
